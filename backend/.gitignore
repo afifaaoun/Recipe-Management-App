@@ -1,0 +1,19 @@
+# Node modules
+/node_modules
+
+# Variables d'environnement
+.env
+
+# Fichiers uploadés (images, PDFs, etc.)
+/uploads
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+logs
+*.log
+
+# Systèmes
+.DS_Store
+Thumbs.db
